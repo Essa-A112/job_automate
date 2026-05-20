@@ -1,0 +1,18 @@
+# Environment & secrets
+.env
+*.json
+
+# Generated output — track folder structure but not generated files
+output/*
+!output/.gitkeep
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
