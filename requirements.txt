@@ -1,0 +1,8 @@
+python-dotenv
+anthropic
+apify-client
+gspread
+google-auth
+python-docx
+reportlab
+schedule
